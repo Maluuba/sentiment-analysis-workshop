@@ -11,7 +11,7 @@ Pang, B., & Lee, L. (2004, July). A sentimental education: Sentiment analysis us
 - TensorFlow 1.8
 - Jupyter Notebook
 
-Download and extract the pretrained model from [https://msrmtl-public-store.azureedge.net/ai4good/sentiment_90pct_639ep.tar.gz](https://msrmtl-public-store.azureedge.net/ai4good/sentiment_90pct_639ep.tar.gz).
+Download and extract the pretrained model [here](https://figureqadataset.blob.core.windows.net/live-dataset/sentiment_90pct_639ep.tar.gz?sp=rl&st=2020-10-06T15:20:22Z&se=2120-10-07T15:20:00Z&sv=2019-12-12&sr=b&sig=XirNGx9sthVF48sO4Ctx64mX3prDutqOOEI8R3v7E0Y%3D).
 
 ## Sample standalone script usage:
 1) train a model from scratch
